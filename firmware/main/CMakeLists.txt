@@ -1,8 +1,8 @@
 idf_component_register(
     SRCS
-       
-       
-       
+        "main.c"
+        "wifi.c"
+        "mqtt.c"
         "health_monitor.c"
         "oled_display.c"
     INCLUDE_DIRS "."
