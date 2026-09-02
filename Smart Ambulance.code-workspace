@@ -1,0 +1,20 @@
+{
+  "folders": [
+    {
+      "name": "firmware",
+      "path": "firmware"
+    },
+    {
+      "name": "backend",
+      "path": "backend"
+    },
+    {
+      "name": "frontend",
+      "path": "frontend"
+    }
+  ],
+  "settings": {
+    "idf.currentSetup": "C:\\esp\\v6.0.2\\esp-idf",
+    "idf.customExtraVars": {}
+  }
+}

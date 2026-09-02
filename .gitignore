@@ -1,0 +1,21 @@
+# Python
+backend/.venv/
+backend/__pycache__/
+*.pyc
+
+# Node.js
+frontend/node_modules/
+frontend/dist/
+
+# Secrets and certificates
+backend/.env
+backend/*.crt
+firmware/main/configuration.h
+firmware/main/certificates.h
+
+# ESP-IDF generated files
+firmware/build/
+firmware/sdkconfig
+
+# VS Code 
+.vscode/
